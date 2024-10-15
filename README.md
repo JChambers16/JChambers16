@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Changes made for CS1200 assignment.
+
+Resume:
+James Chambers
+Computer Science
+May 2024
